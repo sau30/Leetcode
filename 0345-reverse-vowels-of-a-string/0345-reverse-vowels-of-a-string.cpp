@@ -5,9 +5,17 @@ public:
         string vowels = "aeiouAEIOU";
 
         while (i < j) {
-            while (i < j && vowels.find(s[i]) == string::npos) i++;
-            while (i < j && vowels.find(s[j]) == string::npos) j--;
-            if (i < j) swap(s[i++], s[j--]);
+            if (vowels.find(s[i]) == string::npos) { // not found
+                i++; // move i forward if not vowel
+            }
+            else if (vowels.find(s[j]) == string::npos) {
+                j--; // move j backward if not vowel
+            }
+            else {
+                swap(s[i], s[j]); // both are vowels â swap
+                i++;
+                j--;
+            }
         }
         return s;
     }

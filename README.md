@@ -20,11 +20,13 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sau30/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/sau30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/sau30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sau30/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/sau30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sau30/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |

@@ -53,6 +53,14 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sau30/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sau30/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

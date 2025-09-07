@@ -86,6 +86,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sau30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sau30/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -95,6 +96,14 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sau30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sau30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

@@ -89,6 +89,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0206-reverse-linked-list](https://github.com/sau30/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sau30/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sau30/Leetcode/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +131,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sau30/Leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |

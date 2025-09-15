@@ -87,6 +87,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0021-merge-two-sorted-lists](https://github.com/sau30/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sau30/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sau30/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sau30/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -125,6 +126,14 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sau30/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

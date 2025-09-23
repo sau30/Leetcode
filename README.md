@@ -115,6 +115,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sau30/Leetcode/tree/master/0342-power-of-four) |
 ## Memoization

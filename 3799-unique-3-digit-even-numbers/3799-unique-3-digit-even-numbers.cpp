@@ -12,13 +12,13 @@ public:
                     if(i != j && j != k && i != k) {
                         // Use long long to prevent overflow
                         if(digits[i]==0) continue;
-                        long long number = (long long)digits[i] * 100 + 
+                        int ans = (long long)digits[i] * 100 + 
                                          (long long)digits[j] * 10 + 
                                          (long long)digits[k];
                         
                         // Check if number is even and within valid range
-                        if(number % 2 == 0) {
-                            s.insert(number);
+                        if(ans % 2 == 0) {
+                            s.insert(ans);
                         }
                     }
                 }

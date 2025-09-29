@@ -8,6 +8,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/sau30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sau30/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sau30/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -22,6 +23,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sau30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |

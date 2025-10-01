@@ -44,6 +44,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0008-string-to-integer-atoi](https://github.com/sau30/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/sau30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sau30/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/sau30/Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +61,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sau30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sau30/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sau30/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/sau30/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/sau30/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -69,6 +71,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0118-pascals-triangle](https://github.com/sau30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sau30/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sau30/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/sau30/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |

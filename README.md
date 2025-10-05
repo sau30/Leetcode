@@ -108,6 +108,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sau30/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/sau30/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/sau30/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sau30/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sau30/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -159,6 +160,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sau30/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sau30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sau30/Leetcode/tree/master/0326-power-of-three) |

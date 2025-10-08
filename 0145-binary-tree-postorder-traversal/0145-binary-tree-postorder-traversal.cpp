@@ -17,20 +17,20 @@ public:
         TreeNode* currentNode = root;
 
         // Traverse the tree while there are nodes to process
-        while (currentNode != nullptr || !stack.empty()) {
-            if (currentNode != nullptr) {
+        while (root != nullptr || !stack.empty()) {
+            if (root != nullptr) {
                 // Add current node's value to result list before going to its
                 // children
-                result.push_back(currentNode->val);
+                result.push_back(root->val);
                 // Push current node onto the stack
-               stack.push(currentNode);
+               stack.push(root);
                 // Move to the right child
-                currentNode = currentNode->right;
+                root = root->right;
             } else {
                 // Pop the node from the stack and move to its left child
-                currentNode = stack.top();
+                root = stack.top();
                 stack.pop();
-                currentNode = currentNode->left;
+                root= root->left;
             }
         }
         // Reverse the result list to get the correct postorder sequence

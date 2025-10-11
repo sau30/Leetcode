@@ -13,6 +13,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sau30/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sau30/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sau30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sau30/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sau30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sau30/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sau30/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sau30/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sau30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +92,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Linked List
@@ -137,6 +140,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
@@ -191,6 +195,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Simulation
 |  |

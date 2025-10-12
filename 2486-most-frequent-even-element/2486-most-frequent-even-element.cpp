@@ -6,7 +6,8 @@ public:
 
         // Loop for each number
         for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] % 2 != 0) continue; // skip odd numbers
+            if (nums[i] % 2 != 0)
+             continue; // skip odd numbers
 
             int count = 0;
 

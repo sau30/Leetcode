@@ -22,6 +22,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sau30/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |

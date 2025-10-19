@@ -237,6 +237,10 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sau30/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

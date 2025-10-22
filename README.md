@@ -139,6 +139,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sau30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sau30/Leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sau30/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sau30/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -223,18 +224,21 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sau30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sau30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sau30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sau30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sau30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sau30/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search

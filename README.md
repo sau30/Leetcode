@@ -224,6 +224,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sau30/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/sau30/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sau30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |

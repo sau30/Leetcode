@@ -25,6 +25,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sau30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/sau30/Leetcode/tree/master/2058-concatenation-of-array) |

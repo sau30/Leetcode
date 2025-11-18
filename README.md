@@ -22,6 +22,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sau30/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sau30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/sau30/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/1019-squares-of-a-sorted-array) |

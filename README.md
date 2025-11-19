@@ -32,6 +32,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2058-concatenation-of-array](https://github.com/sau30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sau30/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -67,6 +68,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sau30/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -145,6 +147,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -276,6 +279,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [2058-concatenation-of-array](https://github.com/sau30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sau30/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sau30/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/sau30/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sau30/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |

@@ -66,6 +66,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sau30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sau30/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -244,6 +245,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0326-power-of-three](https://github.com/sau30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sau30/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sau30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sau30/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/sau30/Leetcode/tree/master/2050-count-good-numbers) |

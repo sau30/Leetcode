@@ -340,6 +340,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sau30/Leetcode/tree/master/0175-combine-two-tables) |
+| [0184-department-highest-salary](https://github.com/sau30/Leetcode/tree/master/0184-department-highest-salary) |
 | [0620-not-boring-movies](https://github.com/sau30/Leetcode/tree/master/0620-not-boring-movies) |
 ## Heap (Priority Queue)
 |  |

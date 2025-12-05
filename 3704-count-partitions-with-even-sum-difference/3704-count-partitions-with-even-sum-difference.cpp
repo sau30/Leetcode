@@ -1,13 +1,23 @@
 class Solution {
 public:
-    int countPartitions(vector<int>& nums) {
-        long long total = 0;
-        for (int x : nums) total += x;
+    int countPartitions(std::vector<int>& nums) {
+        int totalSum = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            totalSum += nums[i]; 
+        }
 
-        // If total sum is odd â no partition can give even difference
-        if (total % 2 != 0) return 0;
+        int leftSum = 0;
+        int count = 0;
 
-        // Otherwise, for every valid split (i from 0 to n-2), the parity stays even
-        return nums.size() - 1;
+        for (int i = 0; i < nums.size() - 1; i++) { 
+            leftSum += nums[i]; 
+            int rightSum = totalSum - leftSum; 
+
+            if ((leftSum % 2) == (rightSum % 2)) {
+                count++; 
+            }
+        }
+
+        return count; 
     }
 };

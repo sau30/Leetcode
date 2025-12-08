@@ -255,6 +255,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sau30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sau30/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2037-count-square-sum-triples](https://github.com/sau30/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/sau30/Leetcode/tree/master/2050-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sau30/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/sau30/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -280,6 +281,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/sau30/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Counting

@@ -44,6 +44,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sau30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -291,6 +293,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sau30/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 ## Simulation
 |  |
 | ------- |

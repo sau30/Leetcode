@@ -178,6 +178,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0234-palindrome-linked-list](https://github.com/sau30/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sau30/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sau30/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sau30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -258,6 +259,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0342-power-of-four](https://github.com/sau30/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sau30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sau30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sau30/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2037-count-square-sum-triples](https://github.com/sau30/Leetcode/tree/master/2037-count-square-sum-triples) |

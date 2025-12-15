@@ -28,6 +28,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sau30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -75,6 +76,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sau30/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -306,6 +308,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sau30/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |

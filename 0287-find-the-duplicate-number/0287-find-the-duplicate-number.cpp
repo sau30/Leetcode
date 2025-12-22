@@ -1,12 +1,12 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        sort(nums.begin(), nums.end());  // Sort so duplicates come together
-        for (int i = 0; i < nums.size() - 1; i++) {  // -1 to avoid out of bounds
+        sort(nums.begin(), nums.end());  
+        for (int i = 0; i < nums.size() - 1; i++) {  
             if (nums[i] == nums[i + 1]) {
-                return nums[i];  // Found duplicate
+                return nums[i];  
             }
         }
-        return -1; // If no duplicate found
+        return -1; 
     }
 };

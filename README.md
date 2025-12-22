@@ -9,6 +9,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sau30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sau30/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sau30/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -68,6 +69,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sau30/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sau30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sau30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sau30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
@@ -423,6 +425,10 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sau30/Leetcode/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

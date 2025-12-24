@@ -43,6 +43,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sau30/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sau30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -188,6 +189,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sau30/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Linked List
 |  |
@@ -273,6 +275,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0179-largest-number](https://github.com/sau30/Leetcode/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/sau30/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sau30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sau30/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack

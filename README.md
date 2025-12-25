@@ -9,6 +9,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sau30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sau30/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -155,6 +156,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sau30/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sau30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sau30/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/sau30/Leetcode/tree/master/0118-pascals-triangle) |
@@ -246,6 +248,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |

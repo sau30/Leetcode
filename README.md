@@ -9,6 +9,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sau30/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -295,6 +296,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0007-reverse-integer](https://github.com/sau30/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sau30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sau30/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sau30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
@@ -437,6 +439,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 

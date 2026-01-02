@@ -35,6 +35,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0941-sort-array-by-parity](https://github.com/sau30/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sau30/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/sau30/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sau30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -87,6 +88,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0560-subarray-sum-equals-k](https://github.com/sau30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/sau30/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |

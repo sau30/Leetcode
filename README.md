@@ -41,6 +41,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/sau30/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1284-four-divisors](https://github.com/sau30/Leetcode/tree/master/1284-four-divisors) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sau30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -322,6 +323,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0342-power-of-four](https://github.com/sau30/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1284-four-divisors](https://github.com/sau30/Leetcode/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sau30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sau30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sau30/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |

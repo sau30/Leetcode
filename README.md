@@ -8,6 +8,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sau30/Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/sau30/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
@@ -149,6 +150,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sau30/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sau30/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/sau30/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sau30/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sau30/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sau30/Leetcode/tree/master/0088-merge-sorted-array) |

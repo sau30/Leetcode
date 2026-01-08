@@ -177,6 +177,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sau30/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sau30/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sau30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sau30/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/sau30/Leetcode/tree/master/0118-pascals-triangle) |
@@ -323,6 +324,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0012-integer-to-roman](https://github.com/sau30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sau30/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sau30/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sau30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sau30/Leetcode/tree/master/0326-power-of-three) |
@@ -492,6 +494,10 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sau30/Leetcode/tree/master/0493-reverse-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sau30/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

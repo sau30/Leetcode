@@ -6,6 +6,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sau30/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sau30/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sau30/Leetcode/tree/master/0031-next-permutation) |
@@ -124,6 +125,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0005-longest-palindromic-substring](https://github.com/sau30/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sau30/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sau30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/sau30/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/sau30/Leetcode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/sau30/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sau30/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -395,6 +397,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sau30/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Tree
 |  |

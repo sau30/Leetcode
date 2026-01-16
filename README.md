@@ -334,6 +334,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0062-unique-paths](https://github.com/sau30/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sau30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/sau30/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sau30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sau30/Leetcode/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/sau30/Leetcode/tree/master/0445-add-two-numbers-ii) |

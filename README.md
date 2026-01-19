@@ -13,6 +13,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sau30/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -87,6 +88,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sau30/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sau30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sau30/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sau30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -128,6 +130,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0008-string-to-integer-atoi](https://github.com/sau30/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sau30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sau30/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sau30/Leetcode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/sau30/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sau30/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -204,6 +207,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sau30/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sau30/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sau30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |

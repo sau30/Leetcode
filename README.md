@@ -91,6 +91,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sau30/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sau30/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sau30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sau30/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -165,6 +166,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sau30/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sau30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sau30/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sau30/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sau30/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sau30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -239,6 +241,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sau30/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/sau30/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sau30/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sau30/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sau30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |

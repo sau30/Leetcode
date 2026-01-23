@@ -51,6 +51,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1284-four-divisors](https://github.com/sau30/Leetcode/tree/master/1284-four-divisors) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sau30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/sau30/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -256,6 +257,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0445-add-two-numbers-ii](https://github.com/sau30/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sau30/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sau30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sau30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -289,6 +291,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sau30/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sau30/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sau30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -315,6 +318,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0155-min-stack](https://github.com/sau30/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sau30/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sau30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -522,6 +526,14 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sau30/Leetcode/tree/master/0062-unique-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

@@ -5,13 +5,13 @@ public:
         int ans = 0 , n = cost.size();
 
         for(int i = 0; i<n; i){
-            ans += cost[i];
+            ans += cost[i];//1st candy
             i++;
             if(i < n){
-                ans += cost[i];
+                ans += cost[i]; //second candy
                 i++;
             }
-            if(i < n)
+            if(i < n) //third candy free
             i++;
         }
         return ans;

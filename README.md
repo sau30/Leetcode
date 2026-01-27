@@ -61,6 +61,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sau30/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sau30/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/sau30/Leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sau30/Leetcode/tree/master/2502-sort-the-people) |

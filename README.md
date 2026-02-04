@@ -14,6 +14,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sau30/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sau30/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sau30/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
@@ -562,6 +563,7 @@ This repository  contains my solutions to various leetcode problems.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sau30/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sau30/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

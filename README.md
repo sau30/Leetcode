@@ -77,6 +77,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3582-find-indices-of-stable-mountains](https://github.com/sau30/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sau30/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sau30/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3651-transformed-array](https://github.com/sau30/Leetcode/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -436,6 +437,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2288-count-operations-to-obtain-zero](https://github.com/sau30/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/sau30/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sau30/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3651-transformed-array](https://github.com/sau30/Leetcode/tree/master/3651-transformed-array) |
 ## Trie
 |  |
 | ------- |

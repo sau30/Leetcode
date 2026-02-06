@@ -84,6 +84,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/sau30/Leetcode/tree/master/3952-trionic-array-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0239-sliding-window-maximum](https://github.com/sau30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sau30/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +257,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/sau30/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
+| [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
 | ------- |

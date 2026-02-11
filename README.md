@@ -6,6 +6,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sau30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sau30/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sau30/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sau30/Leetcode/tree/master/0018-4sum) |
@@ -90,6 +91,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sau30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sau30/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sau30/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sau30/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -327,6 +329,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sau30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sau30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |

@@ -416,6 +416,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0287-find-the-duplicate-number](https://github.com/sau30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sau30/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sau30/Leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/sau30/Leetcode/tree/master/0401-binary-watch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sau30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sau30/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
@@ -580,6 +581,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0039-combination-sum](https://github.com/sau30/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sau30/Leetcode/tree/master/0046-permutations) |
+| [0401-binary-watch](https://github.com/sau30/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

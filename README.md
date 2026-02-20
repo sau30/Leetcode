@@ -60,6 +60,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sau30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
+| [1656-count-good-triplets](https://github.com/sau30/Leetcode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sau30/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -428,6 +429,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/sau30/Leetcode/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/sau30/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |

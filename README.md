@@ -57,6 +57,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/sau30/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1284-four-divisors](https://github.com/sau30/Leetcode/tree/master/1284-four-divisors) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sau30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
@@ -257,6 +258,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0941-sort-array-by-parity](https://github.com/sau30/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sau30/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/sau30/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sau30/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sau30/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -420,6 +422,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0401-binary-watch](https://github.com/sau30/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sau30/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sau30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sau30/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
@@ -441,6 +444,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0229-majority-element-ii](https://github.com/sau30/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sau30/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sau30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/sau30/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2486-most-frequent-even-element](https://github.com/sau30/Leetcode/tree/master/2486-most-frequent-even-element) |

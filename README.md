@@ -370,6 +370,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0455-assign-cookies](https://github.com/sau30/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/sau30/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/sau30/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/sau30/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sau30/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sau30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sau30/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -399,6 +400,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/sau30/Leetcode/tree/master/1284-four-divisors) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/sau30/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sau30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sau30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sau30/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |

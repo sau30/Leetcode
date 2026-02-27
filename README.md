@@ -37,6 +37,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0287-find-the-duplicate-number](https://github.com/sau30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sau30/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sau30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/sau30/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sau30/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sau30/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sau30/Leetcode/tree/master/0455-assign-cookies) |
@@ -251,6 +252,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0347-top-k-frequent-elements](https://github.com/sau30/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sau30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sau30/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/sau30/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sau30/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/sau30/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |

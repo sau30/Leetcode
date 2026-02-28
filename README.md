@@ -50,6 +50,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sau30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sau30/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/sau30/Leetcode/tree/master/0739-daily-temperatures) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/sau30/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -329,6 +330,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sau30/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sau30/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/sau30/Leetcode/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/sau30/Leetcode/tree/master/1582-design-browser-history) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sau30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sau30/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -384,6 +386,7 @@ This repository  contains my solutions to various leetcode problems.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sau30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sau30/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sau30/Leetcode/tree/master/0739-daily-temperatures) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |

@@ -172,6 +172,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1542-consecutive-characters](https://github.com/sau30/Leetcode/tree/master/1542-consecutive-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/sau30/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sau30/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sau30/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sau30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sau30/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sau30/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -186,6 +187,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sau30/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sau30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sau30/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sau30/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sau30/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Two Pointers
@@ -236,6 +238,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0678-valid-parenthesis-string](https://github.com/sau30/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sau30/Leetcode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |

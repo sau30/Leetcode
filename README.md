@@ -350,6 +350,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sau30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sau30/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sau30/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/sau30/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/sau30/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/sau30/Leetcode/tree/master/0493-reverse-pairs) |
@@ -428,6 +429,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sau30/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sau30/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sau30/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sau30/Leetcode/tree/master/0287-find-the-duplicate-number) |

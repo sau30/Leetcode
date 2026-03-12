@@ -540,6 +540,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0184-department-highest-salary](https://github.com/sau30/Leetcode/tree/master/0184-department-highest-salary) |
 | [0595-big-countries](https://github.com/sau30/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/sau30/Leetcode/tree/master/0620-not-boring-movies) |
+| [1827-invalid-tweets](https://github.com/sau30/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sau30/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Heap (Priority Queue)
 |  |

@@ -89,6 +89,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3849-equal-sum-grid-partition-i](https://github.com/sau30/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/sau30/Leetcode/tree/master/3952-trionic-array-i) |
@@ -248,6 +249,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0560-subarray-sum-equals-k](https://github.com/sau30/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sau30/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/sau30/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3849-equal-sum-grid-partition-i](https://github.com/sau30/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Sorting
 |  |
 | ------- |
@@ -457,6 +459,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sau30/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3849-equal-sum-grid-partition-i](https://github.com/sau30/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Counting
 |  |
 | ------- |
@@ -579,6 +582,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0048-rotate-image](https://github.com/sau30/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sau30/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sau30/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3849-equal-sum-grid-partition-i](https://github.com/sau30/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Quickselect
 |  |
 | ------- |

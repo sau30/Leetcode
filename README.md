@@ -94,6 +94,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/sau30/Leetcode/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sau30/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |

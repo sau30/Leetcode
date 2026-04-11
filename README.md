@@ -96,6 +96,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3958-minimum-removals-to-balance-array](https://github.com/sau30/Leetcode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/sau30/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3885-count-special-triplets](https://github.com/sau30/Leetcode/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/sau30/Leetcode/tree/master/3934-coupon-code-validator) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
 | ------- |

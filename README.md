@@ -173,6 +173,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/sau30/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sau30/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sau30/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/sau30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sau30/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/sau30/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/sau30/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -427,6 +428,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0263-ugly-number](https://github.com/sau30/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sau30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sau30/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/sau30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/sau30/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/sau30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/sau30/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -488,6 +490,7 @@ This repository  contains my solutions to various leetcode problems.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sau30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sau30/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/sau30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sau30/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |

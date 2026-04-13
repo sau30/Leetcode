@@ -70,6 +70,7 @@ This repository  contains my solutions to various leetcode problems.
 | [2058-concatenation-of-array](https://github.com/sau30/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sau30/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sau30/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sau30/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sau30/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/sau30/Leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
@@ -113,6 +114,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0540-single-element-in-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sau30/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sau30/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +290,7 @@ This repository  contains my solutions to various leetcode problems.
 | [1741-sort-array-by-increasing-frequency](https://github.com/sau30/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/sau30/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sau30/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sau30/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sau30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sau30/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sau30/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |

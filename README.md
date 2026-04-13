@@ -110,6 +110,7 @@ This repository  contains my solutions to various leetcode problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sau30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sau30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sau30/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/sau30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/sau30/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sau30/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0808-number-of-matching-subsequences](https://github.com/sau30/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -637,6 +638,10 @@ This repository  contains my solutions to various leetcode problems.
 | [0039-combination-sum](https://github.com/sau30/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sau30/Leetcode/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/sau30/Leetcode/tree/master/0401-binary-watch) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sau30/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->  contains my solutions to various leetcode problems.
 
 <!---LeetCode Topics Start-->

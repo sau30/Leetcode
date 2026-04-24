@@ -100,6 +100,7 @@ This repository  contains my solutions to various leetcode problems.
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/sau30/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/sau30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/sau30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4284-smallest-stable-index-i](https://github.com/sau30/Leetcode/tree/master/4284-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
